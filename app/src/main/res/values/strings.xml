@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Blend Photo Editor &amp; Effect</string>
+
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="home">Home</string>
+    <string name="customize">Customize</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="all">All</string>
+    <string name="del">Delete</string>
+    <string name="share">Share</string>
+    <string name="preview">Preview</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="theme">Theme</string>
+    <string name="error">Error</string>
+    <string name="confirm">Confirm</string>
+    <string name="apply">Apply</string>
+    <string name="no_browser">No Browser</string>
+    <string name="my_gallery">My Gallery</string>
+
+    <string name="crop">Crop</string>
+    <string name="error_crop">Error Crop</string>
+    <string name="finish">Press 1 more time to exit</string>
+
+    <string name="select_to_start_editing_your_photo">Select “+“ to start editing your photo</string>
+
+    <string name="des_permission">We need you to provide this permission to perform actions inside the app</string>
+
+    //settings
+    <string name="setting">Setting</string>
+    <string name="upgrade">Upgrade To Premium</string>
+    <string name="your_blend_photos">Your Blend Photos</string>
+    <string name="rate_app">Rate Apps</string>
+    <string name="feedback">Feedback</string>
+    <string name="more_app">More App</string>
+    <string name="share_app">Share App</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="ig">Instagram</string>
+    <string name="fb">Facebook</string>
+
+    <string name="experience">Experience</string>
+    <string name="price_experience">5.99$/</string>
+    <string name="week">Week</string>
+    <string name="standard">Standard</string>
+    <string name="price_standard">18.99$/</string>
+    <string name="month">Month</string>
+    <string name="savings">Savings</string>
+    <string name="price_savings">45.99$/</string>
+    <string name="year">Year</string>
+
+    //edit
+    <string name="share_now">Share Now</string>
+    <string name="effect">Effect</string>
+    <string name="opacity">Opacity</string>
+    <string name="size">Size</string>
+    <string name="size5">5</string>
+    <string name="do_you_want_to_save_the_file">Do you want to save the file?</string>
+    <string name="are_you_sure_you_want_to_delete_the_photo">Are you sure you want to delete the photo?</string>
+
+    //ucrop
+<!--    <string name="edit_photo">Edit Photo</string>-->
+<!--    <string name="ucrop_label_original">Original</string>-->
+<!--    <string name="ucrop_label_edit_photo">Edit Photo</string>-->
+
+<!--    <string name="ucrop_menu_crop">Crop</string>-->
+
+<!--    <string name="ucrop_error_input_data_is_absent" translatable="false">Both input and output Uri must be specified</string>-->
+<!--    <string name="ucrop_mutate_exception_hint" translatable="false">Therefore, override color resource (ucrop_color_toolbar_widget) in your app to make it work on pre-L devices</string>-->
+<!--    <string name="ucrop_rotate">Rotate</string>-->
+<!--    <string name="ucrop_scale">Scale</string>-->
+<!--    <string name="ucrop_crop">Crop</string>-->
+</resources>

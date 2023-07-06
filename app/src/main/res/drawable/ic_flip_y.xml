@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <group>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M5 0l25 30L54.5 0H5Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M29.5 45L5 75h50L29.5 45Zm-14 25l14-17 15 17h-29Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M55 35v5h-5v-5h5Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M65 35v5h-5v-5h5Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M45 35v5h-5v-5h5Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M35 35v5h-5v-5h5Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M25 35v5h-5v-5h5Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M15 35v5h-5v-5h5Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M5 35v5H0v-5h5Z"/>
+        <path
+            android:fillColor="#FF242424"
+            android:pathData="M75 37.5c0 6.5-3.5 13-9.5 18L60 50v15h15l-6-6c7-6 11-13.5 11-21.5 0-9.5-5-18-14.5-24.5l-3 4c8 5.5 12.5 12.5 12.5 20.5Z"/>
+    </group>
+</vector>
